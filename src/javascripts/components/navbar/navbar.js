@@ -1,6 +1,5 @@
 import utils from '../../helpers/utils';
 
-// eslint-disable-next-line import/no-unresolved
 import './navbar.scss';
 
 const loadNavbar = () => {
